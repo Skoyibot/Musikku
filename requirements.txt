@@ -22,4 +22,4 @@ tgcrypto
 wget
 youtube-search==2.1.0
 youtube-search-python==1.4.9
-yt-dlp==2021.11.10.1
+yt-dlp==2023.9.24
